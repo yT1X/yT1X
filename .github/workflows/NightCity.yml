@@ -1,0 +1,76 @@
+name: Generate Matrix City Animation
+
+on:
+  # Roda de forma automatizada todos os dias à meia-noite
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permite que você execute manualmente pela aba "Actions" para testar agora
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate City SVG Python Script
+        run: |
+          cat << 'EOF' > generate_city.py
+          import random
+
+          # Configurações do cenário
+          width, height = 500, 200
+          svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" style="background: #0a0b10; border-radius: 8px;">\n'
+          svg += '  <style>\n'
+          
+          # Animação para fazer as janelas acenderem e apagarem de forma aleatória e assíncrona
+          for i in range(1, 6):
+              duration = random.uniform(1.5, 3.5)
+              delay = random.uniform(0, 2)
+              svg += f'    @keyframes blink-{i} {{ 0%, 100% {{ fill: #1f2335; }} 50% {{ fill: #ff9e64; filter: drop-shadow(0 0 2px #ff9e64); }} }}\n'
+              svg += f'    .light-{i} {{ animation: blink-{i} {duration:.2f}s infinite; animation-delay: {delay:.2f}s; }}\n'
+          
+          svg += '  </style>\n\n'
+          
+          # Construindo os prédios (silhuetas escuras estilo cyberpunk)
+          buildings = [
+              {"x": 20, "w": 60, "h": 140},
+              {"x": 95, "w": 80, "h": 170},
+              {"x": 190, "w": 55, "h": 120},
+              {"x": 260, "w": 75, "h": 155},
+              {"x": 350, "w": 60, "h": 130},
+              {"x": 425, "w": 55, "h": 150}
+          ]
+          
+          for b in buildings:
+              # Desenha o corpo do prédio
+              y_pos = height - b["h"]
+              svg += f'  <rect x="{b["x"]}" y="{y_pos}" width="{b["w"]}" height="{b["h"]}" fill="#16161e" rx="2" />\n'
+              
+              # Cria as matrizes de janelas para cada prédio
+              rows = b["h"] // 18
+              cols = b["w"] // 14
+              for r in range(rows - 1):
+                  for c in range(cols):
+                      win_x = b["x"] + 6 + (c * 14)
+                      win_y = y_pos + 10 + (r * 18)
+                      # Escolhe um grupo de animação aleatório para a janela
+                      group = random.randint(1, 5)
+                      svg += f'  <rect class="light-{group}" x="{win_x}" y="{win_y}" width="6" height="8" rx="1" fill="#1f2335" />\n'
+          
+          svg += '</svg>'
+          
+          with open("matrix-city.svg", "w") as f:
+              f.write(svg)
+          EOF
+          python3 generate_city.py
+
+      - name: Commit and Push Generated City
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add matrix-city.svg
+          git commit -m "Automated update: Cyberpunk Matrix City grid updated" || exit 0
+          git push

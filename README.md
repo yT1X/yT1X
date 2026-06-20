@@ -1,8 +1,9 @@
 <div align="center">
   <h1>🔹 PORTFÓLIO 🔹</h1>
 
+**Nome: Rafael Machado | Idade: 18 anos**
 
-*Cursando: Engenharia de Software* • *Idade: 18 anos*
+*Cursando: Engenharia de Software*
 
 
 

@@ -41,3 +41,8 @@ Atualmente, dedico meu tempo criando automações e aprimorando a experiência d
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div align="center">
+  <img src="matrix-city.svg" width="100%" max-width="500px" alt="T1X Matrix City Animation" />
+</div>
+

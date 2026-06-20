@@ -2,7 +2,7 @@
   
   <!-- Um cabeçalho estilizado em texto/ASCII ou um banner minimalista -->
 
-  <h1>🔹 REPERTÓRIO 🔹</h1>
+  <h1>🔹 PORTFÓLIO 🔹</h1>
 
   <p align="center">
     <a href="https://github.com/yT1X">

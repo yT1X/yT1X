@@ -22,38 +22,62 @@ jobs:
           import random
 
           width, height = 500, 200
-          svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" style="background: #0a0b10; border-radius: 8px;">\n'
+          # Fundo com um leve gradiente vertical elegante de noite cibernética
+          svg = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" style="background: linear-gradient(180deg, #070810 0%, #0d0e15 100%); border-radius: 8px;">\n'
           svg += '  <style>\n'
           
+          # Definição das cores das luzes piscantes (Laranja Tokyo, Ciano Cyber, Rosa Magenta)
+          colors = ["#ff9e64", "#00f0ff", "#ff007f"]
+          
+          # Criação das animações de piscar com efeito drop-shadow (Glow/Brilho)
           for i in range(1, 6):
-              duration = random.uniform(1.5, 3.5)
-              delay = random.uniform(0, 2)
-              svg += f'    @keyframes blink-{i} {{ 0%, 100% {{ fill: #1f2335; }} 50% {{ fill: #ff9e64; filter: drop-shadow(0 0 2px #ff9e64); }} }}\n'
+              duration = random.uniform(1.8, 4.0)
+              delay = random.uniform(0, 2.5)
+              color = random.choice(colors)
+              svg += f'    @keyframes blink-{i} {{ 0%, 100% {{ fill: #1a1b26; filter: none; }} 50% {{ fill: {color}; filter: drop-shadow(0 0 2px {color}); }} }}\n'
               svg += f'    .light-{i} {{ animation: blink-{i} {duration:.2f}s infinite; animation-delay: {delay:.2f}s; }}\n'
           
+          # Animação para os sinalizadores de aviação vermelhos nas antenas
+          svg += '    @keyframes beacon { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; filter: drop-shadow(0 0 3px #ff0055); } }\n'
+          svg += '    .beacon { animation: beacon 1.2s infinite; fill: #ff0055; }\n'
           svg += '  </style>\n\n'
           
+          # Lista de prédios mantendo o alinhamento X do seu código base, mas adicionando flags de antenas
           buildings = [
-              {"x": 20, "w": 60, "h": 140},
-              {"x": 95, "w": 80, "h": 170},
-              {"x": 190, "w": 55, "h": 120},
-              {"x": 260, "w": 75, "h": 155},
-              {"x": 350, "w": 60, "h": 130},
-              {"x": 425, "w": 55, "h": 150}
+              {"x": 20,  "w": 60, "h": 140, "antenna": False},
+              {"x": 95,  "w": 80, "h": 170, "antenna": True},
+              {"x": 190, "w": 55, "h": 120, "antenna": False},
+              {"x": 260, "w": 75, "h": 155, "antenna": True},
+              {"x": 350, "w": 60, "h": 130, "antenna": False},
+              {"x": 425, "w": 55, "h": 150, "antenna": True}
           ]
           
           for b in buildings:
               y_pos = height - b["h"]
-              svg += f'  <rect x="{b["x"]}" y="{y_pos}" width="{b["w"]}" height="{b["h"]}" fill="#16161e" rx="2" />\n'
               
-              rows = b["h"] // 18
-              cols = b["w"] // 14
+              # Renderiza as antenas no topo de prédios selecionados
+              if b["antenna"]:
+                  ant_x = b["x"] + (b["w"] // 2)
+                  svg += f'  <line x1="{ant_x}" y1="{y_pos}" x2="{ant_x}" y2="{y_pos - 12}" stroke="#ff0055" stroke-width="1" opacity="0.6" />\n'
+                  svg += f'  <circle class="beacon" cx="{ant_x}" cy="{y_pos - 12}" r="1.5" />\n'
+              
+              # Base sólida do edifício
+              svg += f'  <rect x="{b["x"]}" y="{y_pos}" width="{b["w"]}" height="{b["h"]}" fill="#10121a" stroke="#1f2335" stroke-width="0.5" rx="2" />\n'
+              
+              # Janelas ligeiramente menores (4x6) para dar mais detalhes e escala urbana
+              rows = b["h"] // 14
+              cols = b["w"] // 10
               for r in range(rows - 1):
-                  for c in range(cols):
-                      win_x = b["x"] + 6 + (c * 14)
-                      win_y = y_pos + 10 + (r * 18)
-                      group = random.randint(1, 5)
-                      svg += f'  <rect class="light-{group}" x="{win_x}" y="{win_y}" width="6" height="8" rx="1" fill="#1f2335" />\n'
+                  for c in range(cols - 1):
+                      win_x = b["x"] + 6 + (c * 10)
+                      win_y = y_pos + 10 + (r * 14)
+                      
+                      # 15% de chance da janela estar totalmente apagada/escura (dá mais realismo)
+                      if random.random() < 0.15:
+                          svg += f'  <rect x="{win_x}" y="{win_y}" width="4" height="6" rx="0.5" fill="#14151f" />\n'
+                      else:
+                          group = random.randint(1, 5)
+                          svg += f'  <rect class="light-{group}" x="{win_x}" y="{win_y}" width="4" height="6" rx="0.5" fill="#1a1b26" />\n'
           
           svg += '</svg>'
           

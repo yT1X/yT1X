@@ -1,30 +1,14 @@
 <div align="center">
-  
-  <!-- Um cabeçalho estilizado em texto/ASCII ou um banner minimalista -->
-
   <h1>🔹 PORTFÓLIO 🔹</h1>
 
-  <p align="center">
-    <a href="https://github.com/yT1X">
-      <img src="https://img.shields.io/github/followers/yT1X?logo=github&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers">
-    </a>
-    <a href="https://github.com/yT1X?tab=stars">
-      <img src="https://img.shields.io/github/stars/yT1X?style=flat-square&color=bb9af3&labelColor=1a1b26" alt="Stars">
-    </a>
-  </p>
 
-  ---
-</div>
-
-
-**NOME: Rafael / APELIDO: T1X**  
 *Cursando: Engenharia de Software* • *Idade: 18 anos*
 
 
 
 Atualmente, dedico meu tempo criando automações e aprimorando a experiência de usuários. Estou constantemente procurando evoluir cada vez mais, buscando sempre resolver problemas complexos e expandir meu conhecimento técnico através de projetos práticos.
 
----
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

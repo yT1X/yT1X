@@ -1,13 +1,4 @@
-<div align="center">
-  <h1>🔹 PORTFÓLIO 🔹</h1>
 
-**Nome: Rafael Machado | Idade: 18 anos**
-
-*Cursando: Engenharia de Software*
-
-
-
-Atualmente, dedico meu tempo criando automações e aprimorando a experiência de usuários. Estou constantemente procurando evoluir cada vez mais, buscando sempre resolver problemas complexos e expandir meu conhecimento técnico através de projetos práticos.
 
 
 <div style="display: inline_block"><br>

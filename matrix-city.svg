@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="100%" style="background: linear-gradient(180deg, #070810 0%, #0d0e15 100%); border-radius: 8px;">
   <style>
-    @keyframes blink-1 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #ff9e64; filter: drop-shadow(0 0 2px #ff9e64); } }
+    @keyframes blink-1 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #6EE7B7; filter: drop-shadow(0 0 2px #6EE7B7); } }
     .light-1 { animation: blink-1 3.68s infinite; animation-delay: 0.70s; }
-    @keyframes blink-2 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #ff007f; filter: drop-shadow(0 0 2px #ff007f); } }
+    @keyframes blink-2 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #2DD4BF; filter: drop-shadow(0 0 2px #2DD4BF); } }
     .light-2 { animation: blink-2 3.75s infinite; animation-delay: 0.29s; }
-    @keyframes blink-3 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #00f0ff; filter: drop-shadow(0 0 2px #00f0ff); } }
+    @keyframes blink-3 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #A7F3D0; filter: drop-shadow(0 0 2px #A7F3D0); } }
     .light-3 { animation: blink-3 3.46s infinite; animation-delay: 1.67s; }
-    @keyframes blink-4 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #ff007f; filter: drop-shadow(0 0 2px #ff007f); } }
+    @keyframes blink-4 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #34D399; filter: drop-shadow(0 0 2px #34D399); } }
     .light-4 { animation: blink-4 3.86s infinite; animation-delay: 0.52s; }
-    @keyframes blink-5 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #ff007f; filter: drop-shadow(0 0 2px #ff007f); } }
+    @keyframes blink-5 { 0%, 100% { fill: #1a1b26; filter: none; } 50% { fill: #2DD4BF; filter: drop-shadow(0 0 2px #2DD4BF); } }
     .light-5 { animation: blink-5 3.93s infinite; animation-delay: 1.65s; }
     @keyframes beacon { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; filter: drop-shadow(0 0 3px #ff0055); } }
     .beacon { animation: beacon 1.2s infinite; fill: #ff0055; }

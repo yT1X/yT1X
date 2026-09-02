@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css&amp;theme=dark" alt="Python, JavaScript, HTML e CSS" height="40">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react&amp;theme=dark" alt="Python, JavaScript, HTML, CSS e React (JSX)" height="40">
 </p>
 
 <a id="sobre"></a>
@@ -84,8 +84,8 @@ Tem uma ideia, uma sugestão ou quer conversar sobre algum dos meus projetos? Um
 
 <p align="center">
   <a href="https://discord.gg/pTpR9du4qP">Discord</a> ·
-  <a href="mailto:contato.rafaelfiais@gmail.com">Gmail</a> ·
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/">LinkedIn</a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=contato.rafaelfiais@gmail.com">Gmail</a> ·
+  <a href="https://www.linkedin.com/in/rafaelmachadofiais/">LinkedIn</a>
 </p>
 
 </details>

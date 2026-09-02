@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/t1x-icon.png"
+  <img src="assets/RafaelIcon.png"
        alt="Personagem do T1X com cabelos verde-menta."
        width="160">
 </p>

@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/t1x-icon.png"
+       alt="Personagem do T1X com cabelos verde-menta."
+       width="160">
+</p>
+
 <h1 align="center">T1X ✧</h1>
 
 <p align="center">
@@ -63,8 +69,6 @@ Mais do que um projeto para mostrar, ela é parte da minha formação como desen
 
 Explorar meus repositórios →
 
-<!-- Se desejar, acrescente aqui o link direto do repositório da Kiaguri. -->
-
 </details>
 
 <br>
@@ -78,23 +82,13 @@ Explorar meus repositórios →
 
 Tem uma ideia, uma sugestão ou quer conversar sobre algum dos meus projetos? Uma boa troca também faz parte do aprendizado.
 
-<!--
-CONTATOS: substitua o parágrafo abaixo pelo código dos seus botões atuais
-de Discord, Gmail e LinkedIn, preservando os links que você já usa.
-Os nomes abaixo estão sem links porque o print não mostra os endereços.
--->
-
 <p align="center">
-  <strong>Discord · Gmail · LinkedIn</strong>
+  <a href="https://discord.gg/pTpR9du4qP">Discord</a> ·
+  <a href="mailto:contato.rafaelfiais@gmail.com">Gmail</a> ·
+  <a href="https://www.linkedin.com/in/SEU_USUARIO/">LinkedIn</a>
 </p>
 
 </details>
-
-<!--
-VISUAL: cole aqui o código da imagem ou animação da cidade do seu README atual.
-Preserve o endereço original. Para ocupar a largura disponível, use width="100%".
-Nenhuma imagem nova foi criada ou incluída no lugar da sua arte.
--->
 
 <p align="center">
   <strong>T1X · Uma ideia, algumas linhas e um novo aprendizado.</strong>

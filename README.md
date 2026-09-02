@@ -42,7 +42,7 @@ Ainda tenho muito a explorar. Por aqui, você vai encontrar projetos em evoluç�
 
 <br>
 
-Python · JavaScript · HTML · CSS
+Python · JavaScript · HTML · CSS · JSX
 
 Estas são as tecnologias que fazem parte do meu perfil. Estou construindo minha base e aprofundando meus conhecimentos conforme estudo e desenvolvo meus projetos.
 

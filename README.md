@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/RafaelIcon.png"
-       alt="Personagem do T1X com cabelos verde-menta."
-       width="160">
-</p>
-
 <h1 align="center">T1X ✧</h1>
 
 <p align="center">

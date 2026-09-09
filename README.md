@@ -1,7 +1,7 @@
 <h1 align="center">T1X ✧</h1>
 
 <p align="center">
-  <strong>Rafael Machado · Desenvolvedor em construção.</strong>
+  <strong>Rafael Machado · Desenvolvedor de Software em formação.</strong>
   <br>
   Aprendendo, experimentando e dando forma às minhas ideias. 🌱
 </p>

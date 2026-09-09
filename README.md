@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Rafael Machado · Desenvolvedor de Software em formação.</strong>
   <br>
-  Aprendendo, experimentando e dando forma às minhas ideias. 🌱
+  Aprendendo, experimentando e dando forma às minhas ideias.
 </p>
 
 <p align="center">

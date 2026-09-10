@@ -1,1 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="120" viewBox="0 0 860 120" fill="none">
+  <rect x="1.5" y="1.5" width="857" height="117" rx="18" stroke="#30363D" stroke-width="2"/>
 
+  <path d="M22 22H130" stroke="#58A6FF" stroke-width="2.2" stroke-linecap="round"/>
+
+  <g transform="translate(28 34)">
+    <rect x="0" y="0" width="34" height="34" rx="10" stroke="#58A6FF" stroke-width="1.8"/>
+    <path d="M11.5 12L10 9.5" stroke="#58A6FF" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="M22.5 12L24 9.5" stroke="#58A6FF" stroke-width="1.7" stroke-linecap="round"/>
+    <circle cx="9.8" cy="9" r="1.1" fill="#58A6FF"/>
+    <circle cx="24.2" cy="9" r="1.1" fill="#58A6FF"/>
+    <rect x="9" y="12.5" width="16" height="10.5" rx="4.5" stroke="#58A6FF" stroke-width="1.7"/>
+    <circle cx="14.5" cy="18" r="1.1" fill="#58A6FF"/>
+    <circle cx="19.5" cy="18" r="1.1" fill="#58A6FF"/>
+  </g>
+
+  <text x="76" y="46" fill="#F0F6FC" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    Kiaguri
+  </text>
+
+  <text x="76" y="73" fill="#8B949E" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+    Bot para Discord · Ativo · Sempre evoluindo
+  </text>
+
+  <text x="76" y="95" fill="#58A6FF" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="600">
+    Projeto principal
+  </text>
+</svg>

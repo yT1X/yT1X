@@ -60,6 +60,14 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 ### <img src="./assets/project.svg" width="18" height="18" alt=""> Projeto em destaque
 
+<details>
+  <summary>
+    <strong>Kiaguri</strong><br>
+    <sub>Bot para Discord · Ativo · Sempre Evoluindo</sub>
+  </summary>
+
+<br>
+
 #### <img src="./assets/kiaguri.svg" width="17" height="17" alt=""> Kiaguri
 
 **Uma companhia de outro mundo para o Discord.**
@@ -79,6 +87,8 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 
 **Tecnologia principal:** Python  
 **Plataforma:** Discord
+
+</details>
 
 <br>
 

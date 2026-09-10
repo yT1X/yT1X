@@ -68,27 +68,50 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <br>
 
-#### <img src="./assets/kiaguri.svg" width="17" height="17" alt=""> Kiaguri
+<table>
+<tr>
+<td>
 
-**Uma companhia de outro mundo para o Discord.**
+<h4>
+  <img src="./assets/kiaguri.svg" width="17" height="17" alt="">
+  Kiaguri
+</h4>
 
-A **Kiaguri** nasceu de um problema comum em servidores do Discord: depender de vários bots diferentes para oferecer funcionalidades à comunidade.
+<p><strong>Uma companhia de outro mundo para o Discord.</strong></p>
 
+<p>
+A <strong>Kiaguri</strong> nasceu de um problema comum em servidores do Discord: depender de vários bots diferentes para oferecer funcionalidades à comunidade.
+</p>
+
+<p>
 O projeto busca centralizar esses recursos em uma única aplicação gratuita, tornando a administração e a experiência dos usuários mais simples.
+</p>
 
+<p>
 A Kiaguri é também meu principal projeto de aprendizado e evolução como desenvolvedor. É onde transformo conceitos em funcionalidades reais, encontro problemas, reviso decisões e aprimoro o projeto continuamente.
+</p>
 
-**Principais objetivos do projeto:**
+<p><strong>Principais objetivos do projeto:</strong></p>
 
-- Centralizar funcionalidades úteis para comunidades da plataforma Discord;
-- Criar uma experiência simples para usuários e administradores;
-- Desenvolver e evoluir funcionalidades de forma incremental;
-- Aplicar na prática os conhecimentos adquiridos durante meus estudos.
+<ul>
+  <li>Centralizar funcionalidades úteis para comunidades da plataforma Discord;</li>
+  <li>Criar uma experiência simples para usuários e administradores;</li>
+  <li>Desenvolver e evoluir funcionalidades de forma incremental;</li>
+  <li>Aplicar na prática os conhecimentos adquiridos durante meus estudos.</li>
+</ul>
 
-**Tecnologia principal:** Python  
-**Plataforma:** Discord
+<p>
+  <strong>Tecnologia principal:</strong> Python<br>
+  <strong>Plataforma:</strong> Discord
+</p>
+
+</td>
+</tr>
+</table>
 
 </details>
+
+<br>
 
 <br>
 

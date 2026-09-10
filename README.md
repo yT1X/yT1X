@@ -62,8 +62,7 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <details>
   <summary>
-    <strong>Kiaguri</strong><br>
-    <sub>Bot para Discord · Ativo · Sempre Evoluindo</sub>
+    <img src="./assets/kiaguri-card.svg" width="100%" alt="Kiaguri">
   </summary>
 
 <br>

@@ -62,7 +62,7 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <details>
   <summary>
-    <img src="./assets/kiaguri-card.svg" width="360" alt="Kiaguri">
+    <img src="./assets/kiaguri-card.svg" width="400" alt="Kiaguri">
   </summary>
 
 <br>

@@ -107,8 +107,15 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 <p>
   <strong>Tecnologia principal:</strong> Python<br>
   <strong>Plataforma:</strong> Discord<br>
-  
   <a href="https://discord.com/oauth2/authorize?client_id=1494057977550995576"><strong>Adicionar Bot</strong></a>
+</p>
+
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/ed062040-962d-4353-a9d7-8927f535e80c"
+    width="620"
+    controls>
+  </video>
 </p>
 
 </td>

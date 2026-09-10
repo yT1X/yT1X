@@ -25,7 +25,7 @@
 
 <a id="sobre"></a>
 
-### Sobre mim
+### <img src="./assets/profile.svg" width="18" height="18" alt=""> Sobre mim
 
 Me chamo **Rafael Machado**, mas por aqui você pode me chamar de **T1X**.
 
@@ -39,7 +39,7 @@ Atualmente, meu foco está em fortalecer minha base em desenvolvimento de softwa
 
 <a id="tecnologias"></a>
 
-### Tecnologias
+### <img src="./assets/code.svg" width="18" height="18" alt=""> Tecnologias
 
 <table>
   <tr>
@@ -58,9 +58,9 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <a id="projetos"></a>
 
-### Projeto em destaque
+### <img src="./assets/project.svg" width="18" height="18" alt=""> Projeto em destaque
 
-#### 🛸 Kiaguri
+#### <img src="./assets/kiaguri.svg" width="17" height="17" alt=""> Kiaguri
 
 **Uma companhia de outro mundo para o Discord.**
 
@@ -84,7 +84,7 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 
 <a id="contato"></a>
 
-### Contato
+### <img src="./assets/contact.svg" width="18" height="18" alt=""> Contato
 
 Tem uma ideia, sugestão ou quer conversar sobre algum dos meus projetos? Fique à vontade para entrar em contato.
 

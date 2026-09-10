@@ -62,7 +62,12 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <details>
   <summary>
-    <img src="./assets/kiaguri-card.svg" width="400" alt="Kiaguri">
+    <strong>Kiaguri</strong>
+    &nbsp;
+    <code>Python</code>
+    <code>Ativo</code>
+    <br>
+    <sub>Bot para Discord · Sempre Atualizando</sub>
   </summary>
 
 <br>
@@ -101,7 +106,9 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 
 <p>
   <strong>Tecnologia principal:</strong> Python<br>
-  <strong>Plataforma:</strong> Discord
+  <strong>Plataforma:</strong> Discord<br>
+  
+  <a href="https://discord.com/oauth2/authorize?client_id=1494057977550995576"><strong>Adicionar Bot</strong></a>
 </p>
 
 </td>

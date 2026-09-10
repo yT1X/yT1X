@@ -58,7 +58,7 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 
 <a id="projetos"></a>
 
-### <img src="./assets/project.svg" width="18" height="18" alt=""> Projeto em destaque
+### <img src="./assets/project.svg" width="18" height="18" alt=""> Projetos em destaque
 
 <details>
   <summary>

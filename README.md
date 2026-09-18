@@ -132,7 +132,7 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 
 ### <img src="./assets/contact.svg" width="18" height="18" alt=""> Contato
 
-Tem uma ideia, sugestão ou quer conversar sobre algum dos meus projetos? Fique à vontade para entrar em contato.
+Quer conversar sobre algum dos meus projetos? Fique à vontade para entrar em contato. Estou aberto a colaborações e oportunidades profissionais.
 
 <p align="center">
   <a href="mailto:contato.rafaelfiais@gmail.com">E-mail</a> ·

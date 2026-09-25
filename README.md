@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Rafael Machado · Desenvolvedor de Software em formação</strong>
   <br>
-  Transformando ideias em projetos enquanto construo minha experiência em desenvolvimento.
+  Compartilhando projetos, estudos e minha evolução na programação.
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 
 Me chamo **Rafael Machado**, mas por aqui você pode me chamar de **T1X**.
 
-Sou desenvolvedor de software em formação e utilizo este espaço para compartilhar projetos, experimentos e minha evolução na programação.
+Sou desenvolvedor de software em formação e uso este espaço para compartilhar alguns dos projetos que estou criando enquanto aprendo programação.
 
-Gosto de transformar ideias em soluções funcionais, entendendo não apenas como fazê-las funcionar, mas também como organizar, melhorar e manter o que desenvolvo.
+Gosto principalmente de pegar uma ideia e tentar transformar ela em algo que realmente funcione. Durante esse processo, vou aprendendo mais sobre organização de código, estrutura de projetos e desenvolvimento no geral.
 
-Atualmente, meu foco está em fortalecer minha base em desenvolvimento de software através de projetos práticos, explorando principalmente **Python, JavaScript e desenvolvimento web**.
+Atualmente estudo e desenvolvo projetos principalmente com **Python, JavaScript e desenvolvimento web**.
 
 <br>
 
@@ -52,7 +52,7 @@ Atualmente, meu foco está em fortalecer minha base em desenvolvimento de softwa
   </tr>
 </table>
 
-Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a estrutura e as decisões por trás do que estou construindo.
+Ainda estou aprendendo e expandindo minha stack, mas procuro entender bem o que estou usando em cada projeto.
 
 <br>
 
@@ -84,24 +84,24 @@ Mais do que adicionar tecnologias à minha stack, procuro entender a lógica, a 
 <p><strong>Uma companhia de outro mundo para o Discord.</strong></p>
 
 <p>
-A <strong>Kiaguri</strong> nasceu de um problema comum em servidores do Discord: depender de vários bots diferentes para oferecer funcionalidades à comunidade.
+A <strong>Kiaguri</strong> surgiu da ideia de criar um bot que reunisse várias funcionalidades úteis em um só lugar, sem precisar depender de vários bots diferentes no servidor.
 </p>
 
 <p>
-O projeto busca centralizar esses recursos em uma única aplicação gratuita, tornando a administração e a experiência dos usuários mais simples.
+O objetivo é deixar a experiência mais simples tanto para quem administra quanto para quem usa o servidor.
 </p>
 
 <p>
-A Kiaguri é também meu principal projeto de aprendizado e evolução como desenvolvedor. É onde transformo conceitos em funcionalidades reais, encontro problemas, reviso decisões e aprimoro o projeto continuamente.
+Esse também é o projeto onde mais pratico programação atualmente. Sempre que aprendo algo novo, tento aplicar no bot, melhorar partes antigas e adicionar novas funcionalidades.
 </p>
 
 <p><strong>Principais objetivos do projeto:</strong></p>
 
 <ul>
-  <li>Centralizar funcionalidades úteis para comunidades da plataforma Discord;</li>
-  <li>Criar uma experiência simples para usuários e administradores;</li>
-  <li>Desenvolver e evoluir funcionalidades de forma incremental;</li>
-  <li>Aplicar na prática os conhecimentos adquiridos durante meus estudos.</li>
+  <li>Reunir funcionalidades úteis em um único bot;</li>
+  <li>Facilitar a administração de servidores;</li>
+  <li>Adicionar e melhorar recursos aos poucos;</li>
+  <li>Usar o projeto como forma de aprendizado.</li>
 </ul>
 
 <p>
@@ -132,7 +132,7 @@ A Kiaguri é também meu principal projeto de aprendizado e evolução como dese
 
 ### <img src="./assets/contact.svg" width="18" height="18" alt=""> Contato
 
-Quer conversar sobre algum dos meus projetos? Fique à vontade para entrar em contato. Estou aberto a colaborações e oportunidades profissionais.
+Quer conversar sobre algum dos meus projetos ou sobre alguma oportunidade? Fique à vontade para entrar em contato.
 
 <p align="center">
   <a href="mailto:contato.rafaelfiais@gmail.com">E-mail</a> ·

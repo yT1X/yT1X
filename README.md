@@ -15,8 +15,8 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,js,html,css,react&theme=dark"
-    alt="Python, JavaScript, HTML, CSS e React"
+    src="https://skillicons.dev/icons?i=py,nodejs,html,css,ts&theme=dark"
+    alt="Python, Node.js, HTML, CSS e TypeScript"
     height="40"
   >
 </p>
@@ -43,12 +43,12 @@ Atualmente estudo e desenvolvo projetos principalmente com **Python, JavaScript 
 
 <table>
   <tr>
-    <td><strong>Linguagens</strong></td>
-    <td>Python · JavaScript</td>
+    <td><strong>Backend</strong></td>
+    <td>Python · Node.js</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>HTML · CSS · React</td>
+    <td>HTML · CSS · TypeScript</td>
   </tr>
 </table>
 
@@ -107,6 +107,7 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
 <p>
   <strong>Tecnologia principal:</strong> Python<br>
   <strong>Plataforma:</strong> Discord<br>
+  
   <a href="https://discord.com/oauth2/authorize?client_id=1494057977550995576"><strong>Adicionar Bot</strong></a>
 </p>
 
@@ -125,6 +126,56 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
 </details>
 
 <br>
+
+<details>
+  <summary>
+    <strong>Lúmina</strong>
+    &nbsp;
+    <code>HTML</code>
+    <code>CSS</code>
+    <code>TS</code>
+    <code>JS</code>
+    <br>
+    <sub>Site com objetivo acadêmico</sub>
+  </summary>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<h3>
+  Lúmina Educação
+</h3>
+
+<p><strong>A Lúmina Educação nasceu a partir de um trabalho de IFA de Matemática com uma proposta simples: criar uma empresa fictícia e desenvolver um produto que ainda não existe.
+
+A partir disso, pensamos em um problema real da educação e criamos o HoloTutor, um conceito de professor holográfico com inteligência artificial e uma base móvel capaz de circular pela sala de aula.</strong></p>
+
+<h3>
+O projeto
+</h3>
+
+<p>
+O objetivo do trabalho era imaginar uma empresa, identificar um problema e apresentar uma solução para ele.
+
+Nossa ideia partiu de uma situação comum dentro da sala de aula: um professor precisa acompanhar vários alunos ao mesmo tempo, mas cada estudante pode ter uma dúvida diferente.
+</p>
+
+<p>
+  <strong>Tecnologias principais:</strong> HTML, CSS, JavaScript e TypeScript
+
+  <a href="https://github.com/yT1X/lumina"><strong>Repositório do projeto</strong></a> · 
+  <a href="https://luminaeducaa.vercel.app"><strong>Projeto online</strong></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</details>
+
 
 <br>
 

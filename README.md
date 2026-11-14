@@ -151,7 +151,7 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
   <img src="assets/Lúmina.svg" alt="Color Selector" width="140" />
 </p>
 
-<h3 align="center">Color Selector</h3>
+<h3 align="center">Lúmina</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
@@ -200,6 +200,7 @@ Nossa ideia partiu de uma situação comum dentro da sala de aula: um professor 
     <code>HTML</code>
     <code>CSS</code>
     <code>JS</code>
+    <code>Canvas API</code>
     <br>
     <sub>Site com objetivo acadêmico</sub>
   </summary>
@@ -237,8 +238,7 @@ A ideia do projeto é tornar a identificação de cores algo simples e prático,
 <p>
   <strong>Tecnologias principais:</strong> HTML, CSS, JavaScript e Canvas API
 
-  <a href="https://github.com/yT1X/color-selector"><strong>Repositório do projeto</strong></a> · 
-  <a href="https://luminaeducaa.vercel.app"><strong>Projeto online</strong></a>
+  <a href="https://t1xcolor.vercel.app"><strong>Projeto online</strong></a>
 </p>
 
 </td>

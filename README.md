@@ -1,33 +1,9 @@
-<h1 align="center">T1X ✧</h1>
-
-<p align="center">
-  <strong>Rafael Machado · Desenvolvedor de Software em formação</strong>
-  <br>
-  Compartilhando projetos, estudos e minha evolução na programação.
-</p>
-
-<p align="center">
-  <a href="#sobre">Sobre</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#projetos">Projetos</a> ·
-  <a href="#contato">Contato</a>
-</p>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=py,nodejs,html,css,ts&theme=dark"
-    alt="Python, Node.js, HTML, CSS e TypeScript"
-    height="40"
-  >
-</p>
-
 <br>
 
-<a id="sobre"></a>
 
 ### <img src="./assets/profile.svg" width="18" height="18" alt=""> Sobre mim
 
-Me chamo **Rafael Machado**, mas por aqui você pode me chamar de **T1X**.
+Me chamo **Rafael Machado**.
 
 Sou desenvolvedor de software em formação e uso este espaço para compartilhar alguns dos projetos que estou criando enquanto aprendo programação.
 
@@ -202,7 +178,7 @@ Nossa ideia partiu de uma situação comum dentro da sala de aula: um professor 
     <code>JS</code>
     <code>Canvas API</code>
     <br>
-    <sub>Site com objetivo acadêmico</sub>
+    <sub>Site com objetivo publico</sub>
   </summary>
 
 <br>

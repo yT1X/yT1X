@@ -125,6 +125,8 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
 
 </details>
 
+
+
 <br>
 
 <details>
@@ -145,9 +147,21 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
 <tr>
 <td>
 
-<h3>
-  Lúmina Educação
-</h3>
+<p align="center">
+  <img src="assets/Lúmina.svg" alt="Color Selector" width="140" />
+</p>
+
+<h3 align="center">Color Selector</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/backend-nenhum-lightgrey" alt="Sem backend">
+</p>
+
+---
 
 <p><strong>A Lúmina Educação nasceu a partir de um trabalho de IFA de Matemática com uma proposta simples: criar uma empresa fictícia e desenvolver um produto que ainda não existe.
 
@@ -164,7 +178,7 @@ Nossa ideia partiu de uma situação comum dentro da sala de aula: um professor 
 </p>
 
 <p>
-  <strong>Tecnologias principais:</strong> HTML, CSS, JavaScript e TypeScript
+  <strong>Tecnologias principais:</strong> HTML, CSS, JavaScript, React e TypeScript
 
   <a href="https://github.com/yT1X/lumina"><strong>Repositório do projeto</strong></a> · 
   <a href="https://luminaeducaa.vercel.app"><strong>Projeto online</strong></a>
@@ -176,6 +190,62 @@ Nossa ideia partiu de uma situação comum dentro da sala de aula: um professor 
 
 </details>
 
+
+<br>
+
+<details>
+  <summary>
+    <strong>Color Selector</strong>
+    &nbsp;
+    <code>HTML</code>
+    <code>CSS</code>
+    <code>JS</code>
+    <br>
+    <sub>Site com objetivo acadêmico</sub>
+  </summary>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<p align="center">
+  <img src="assets/colorselector.png" alt="Color Selector" width="140" />
+</p>
+
+<h3 align="center">Color Selector</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Canvas%20API-5fbfa5" alt="Canvas API">
+  <img src="https://img.shields.io/badge/backend-nenhum-lightgrey" alt="sem backend">
+</p>
+
+---
+
+<a id="sobre"></a>
+### Sobre
+
+O Color Selector é um site que permite identificar e copiar cores diretamente de qualquer imagem. Basta enviar uma imagem e clicar no ponto que deseja para descobrir exatamente qual é a cor daquele pixel.
+
+Além de mostrar os códigos HEX, RGB, RGBA, HSL e HSLA, o site conta com ferramentas de zoom e movimentação da imagem, histórico das cores selecionadas e opção de exportar essas informações em TXT ou JSON.
+
+A ideia do projeto é tornar a identificação de cores algo simples e prático, reunindo tudo o que é necessário em um só lugar.
+
+<p>
+  <strong>Tecnologias principais:</strong> HTML, CSS, JavaScript e Canvas API
+
+  <a href="https://github.com/yT1X/color-selector"><strong>Repositório do projeto</strong></a> · 
+  <a href="https://luminaeducaa.vercel.app"><strong>Projeto online</strong></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</details>
 
 <br>
 

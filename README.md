@@ -141,9 +141,9 @@ Esse também é o projeto onde mais pratico programação atualmente. Sempre que
 
 ### Sobre
 
-<p><strong>A Lúmina Educação nasceu a partir de um trabalho de IFA de Matemática com uma proposta simples: criar uma empresa fictícia e desenvolver um produto que ainda não existe.
+<p>A Lúmina Educação nasceu a partir de um trabalho de IFA de Matemática com uma proposta simples: criar uma empresa fictícia e desenvolver um produto que ainda não existe.
 
-A partir disso, pensamos em um problema real da educação e criamos o HoloTutor, um conceito de professor holográfico com inteligência artificial e uma base móvel capaz de circular pela sala de aula.</strong></p>
+A partir disso, pensamos em um problema real da educação e criamos o HoloTutor, um conceito de professor holográfico com inteligência artificial e uma base móvel capaz de circular pela sala de aula.</p>
 
 <p>
 O objetivo do trabalho era imaginar uma empresa, identificar um problema e apresentar uma solução para ele.
